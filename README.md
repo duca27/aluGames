@@ -8,4 +8,3 @@ O mesmo deveria ocorrer com as cores desses bot√µes (quando ele estivesse na op√
 | :label: Tecnologias | javascript
 | :rocket: URL         | [https://url-deploy.com.br](http://127.0.0.1:5500/index.html)
 | :fire: Desafio     | Alugue e devolva o jogo
-
